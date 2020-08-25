@@ -10,4 +10,4 @@
     
     - use <xamp> como servidor local!
 
-<img width="30%" align="right" src="">
+<img width="30%" align="right" src="https://github.com/TarcisioValentim/php-login-mysql/blob/master/images/imgReademe.png">
