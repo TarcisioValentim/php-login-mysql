@@ -8,6 +8,6 @@
     - inicie o servidor php: 
         php -S localhost:8080
     
-    - use xamp como servidor local!
+    - use <xamp> como servidor local!
 
 <img width="30%" align="right" src="">
